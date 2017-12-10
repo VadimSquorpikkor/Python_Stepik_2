@@ -40,7 +40,6 @@
 #
 # 252
 
-
-
-
+# n, k = map(int, input().split())
 # def recurse(n, k):
+#
